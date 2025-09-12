@@ -123,7 +123,7 @@ The notebook downloads historical stock data, fetches macroeconomic indicators, 
 ## Notes
 - Sentiment analysis uses a pre-trained DistilBERT model fine-tuned on SST-2.
 - The sample news dataset is limited; for improved performance, use a larger, real dataset.
-- FRED API key is required to fetch macroeconomic data; without it, a fallback value is used.
+- [FRED API](https://fred.stlouisfed.org/) key is required to fetch macroeconomic data; without it, a fallback value is used.
 
 ## Educational Goals
 This project demonstrates:
